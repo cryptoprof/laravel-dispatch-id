@@ -1,5 +1,5 @@
 {
-    "name": "arispati/laravel-dispatch-id",
+    "name": "cryptoprof/laravel-dispatch-id",
     "description": "Laravel package to get the job id after dispatch",
     "type": "library",
     "license": "MIT",
@@ -20,7 +20,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.2",
-        "illuminate/contracts": "~5.0|~6.0|~7.0|^8.0",
-        "illuminate/container": "~5.0|~6.0|~7.0|^8.0"
+        "illuminate/contracts": "~5.0|~6.0|~7.0|~8.0|^10.0",
+        "illuminate/container": "~5.0|~6.0|~7.0|~8.0|^10.0"
     }
 }
